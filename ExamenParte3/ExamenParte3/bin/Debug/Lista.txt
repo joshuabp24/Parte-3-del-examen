@@ -1,0 +1,10 @@
+0, Michi, Jose, Persa, Macho
+1, Micha, Maria, Bengala, Hembra
+2, Bonnie, Joshua, Ragdoll, Hembra
+3, Bigotes, Joselyn, Sphynx, Macho
+4, Manchas, Laura, Savannah, Macho
+5, Bella, Alex, AzulRuso, Hembra
+6, Mufasa, Alejandro, BosqueDeNoruega, Macho 
+7, Pantera, Jennifer, Bombay, Hembra
+8, Lola, Eduardo, GatoSiames, Macho
+9, Garfield, Jon, GatoExotico,Macho
